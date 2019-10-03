@@ -1,1 +1,2 @@
-# Gallery
+# Gallery 
+#### GET IMAGE FROM GALLERY AND CAMERA
